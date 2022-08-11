@@ -10,7 +10,7 @@
     "@types/react-dom": "^17.0.11",
     "@types/react-lottie": "^1.2.2",
     "@types/smoothscroll-polyfill": "^0.3.1",
-    "@types/styled-components": "^5.1.9",
+    "@types/styled-components": "^5.1.26",
     "lodash.throttle": "^4.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.13.0",
@@ -23,7 +23,7 @@
     "react-text-loop": "^2.0.2",
     "simple-react-lightbox": "^3.6.6",
     "smoothscroll-polyfill": "^0.4.4",
-    "styled-components": "^4.2.0",
+    "styled-components": "^5.3.5",
     "tslib": "^2.2.0",
     "typescript": "^3.4.5",
     "ua-parser-js": "^0.7.19"
